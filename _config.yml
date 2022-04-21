@@ -20,6 +20,11 @@ domain: mzurel.github.io
 url: https://mzurel.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
+header_pages:
+  - index.md
+  - publications.md
+  - contact.md
+
 twitter_username: mzurel
 github_username:  mzurel
 
