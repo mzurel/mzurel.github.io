@@ -3,7 +3,7 @@ layout: default
 permalink: /publications/
 title: Publications
 ---
-# Preprints
+## Preprints
 
 ### 2021
 - **Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension**
@@ -16,7 +16,7 @@ title: Publications
 
 ---
 
-# Publications
+## Publications
 
 ### 2021
 - **On the extremal points of the $\Lambda$-polytopes and classical simulation of quantum computation with magic states**
@@ -37,6 +37,6 @@ title: Publications
 
 ---
 
-# Master's Thesis
+## Master's Thesis
 - **Hidden Variable Models and Classical Simulation Algorithms for Quantum Computation with Magic States on Qubits**
   - University of British Columbia library link: [https://dx.doi.org/10.14288/1.0394790](https://dx.doi.org/10.14288/1.0394790){:target="_blank"}
