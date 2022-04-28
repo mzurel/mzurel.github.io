@@ -5,6 +5,8 @@ title: Talks
 ---
 
 ## Talks and posters
+
+### 2022
 - **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2022** (upcoming)
   - Title: Hidden variable model for quantum computation with magic states on any number of qudits of any dimension
   - Dates: August, 2022
@@ -23,6 +25,7 @@ title: Talks
   - Location: California Institute of Technology, Pasadena, California (online)
   - Format: poster
 
+### 2021
 - **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2021**
   - Title: Hidden variable model for universal quantum computation with magic states on qubits
   - Dates: July, 2021
@@ -43,6 +46,7 @@ title: Talks
   - Location: Technical University of Munich, Munich, Germany (online)
   - Format: poster
 
+### 2020
 - **Algebraic Structures in Quantum Computation (ASQC4) 2020**
   - Title: Hidden variable model for universal quantum computation with magic states on qubits
   - Dates: June, 2020
@@ -56,6 +60,7 @@ title: Talks
   - Location: University of Oregon, Eugene, Oregon
   - Format: poster
 
+### 2019
 - **Quantum Physics and Logic (QPL) 2019**
   - Title: Phase-space-simulation method for quantum computation with magic states on qubits
   - Dates: June, 2019

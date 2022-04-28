@@ -14,7 +14,6 @@ title: Publications
   - Coathors: R. Raussendorf, C. Okay, **MZ**, and P. Feldmann.
   - [arXiv:2110.11631](https://arxiv.org/abs/2110.11631){:target="_blank"}
 
----
 
 ## Publications
 
@@ -35,7 +34,6 @@ title: Publications
   - Published version: [Physical Review A **101** (1), 012350 (2020)](https://link.aps.org/doi/10.1103/PhysRevA.101.012350){:target="_blank"}
   - arXiv version: [arXiv:1905.05374](https://arxiv.org/abs/1905.05374){:target="_blank"}
 
----
 
 ## Master's Thesis
 - **Hidden Variable Models and Classical Simulation Algorithms for Quantum Computation with Magic States on Qubits** [[pdf]](/files/papers/ubc_2020_november_zurel_michael.pdf){:target="_blank"}
