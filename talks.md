@@ -11,6 +11,12 @@ title: Talks
   - Location: University of Illinois at Urbana-Champaign, Champaign, Illinois
   - Format: talk
 
+- **Internal talk for QuEra Computing Inc. software/algorithms team**
+  - Title: Classical simulation of quantum computation with magic states
+  - Dates: April, 2022
+  - Location: online
+  - Format: 45 minute talk
+
 - **Quantum Information Processing (QIP) 2022**
   - Title: Hidden variable model for quantum computation with magic states on any number of qudits of any dimension
   - Dates: March, 2022
