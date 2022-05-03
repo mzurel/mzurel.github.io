@@ -6,8 +6,9 @@ title: About me
 ## Bio
 ![Brandywine](/files/photos/CoverPhoto.jpg){: width="400" style="float:right; padding-left:10px"}
 
-I am a PhD student in Physics at the University of British Columbia and the Stewart Blusson Quantum Matter Institute. I work on quantum information and quantum computation under the supervision of Dr. Robert Raussendorf. In particular, I study quantum contextuality, negativity in quasiprobability representations, and other indicators of nonclassicality in hidden variable models, and there relation to the computational speedup of quantum computation over classical computation.
+I am a PhD student in Physics at the University of British Columbia and the Stewart Blusson Quantum Matter Institute. I work on quantum information and quantum computation under the supervision of Dr. Robert Raussendorf. In particular, I study quantum contextuality, negativity in quasiprobability representations, and other indicators of nonclassicality in hidden variable models, and their relation to the computational speedup of quantum computation over classical computation.
 
+My CV can be downloaded [here](/files/cv.pdf){:target="_blank"}.
 
 ## Affiliations
 - [University of British Columbia (UBC) Department of Physics & Astronomy](https://phas.ubc.ca/){:target="_blank"}
