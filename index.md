@@ -29,6 +29,7 @@ My CV can be downloaded [here](/files/cv.pdf){:target="_blank"}.
 Some of my recent collaborators include
 - [Dr. Robert Raussendorf](https://phas.ubc.ca/~raussen/){:target="_blank"}
 - [Dr. Cihan Okay](http://cihan.okay.bilkent.edu.tr/){:target="_blank"}
+- Dr. Polina Feldmann
 - [Arne Heimendahl](https://www.mi.uni-koeln.de/opt/arne-heimendahl/){:target="_blank"}
 - [Dra. Jara Juana Bermejo-Vega](https://scholar.google.com/citations?user=bcI03DIAAAAJ&hl=en&inst=17001591832933267808&oi=ao){:target="_blank"}
 - [Emily Tyhurst](https://www.physics.utoronto.ca/~etyhurst/){:target="_blank"}
