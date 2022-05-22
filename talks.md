@@ -13,6 +13,12 @@ title: Talks
   - Location: University of Illinois at Urbana-Champaign, Champaign, Illinois
   - Format: talk
 
+- **Algebraic Structures in Quantum Computation (ASQC5) 2022** (upcoming)
+  - Title: TBA
+  - Dates: June, 2022
+  - Location: University of British Columbia, Vancouver, Canada
+  - Format: 30 minute talk
+
 - **Internal talk for QuEra Computing Inc. software/algorithms team**
   - Title: Classical simulation of quantum computation with magic states
   - Dates: April, 2022
