@@ -26,7 +26,7 @@ title: Talks
   - Format: 10 minute talk
 
 - **Bilkent University Math Grad Seminar** (upcoming)
-  - Title: Polytopes in quantum computation and quatum information
+  - Title: Polytopes in quantum computation and quantum information
   - Dates: June, 2022
   - Location: online
   - Format: 60 minute talk
