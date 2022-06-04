@@ -10,7 +10,7 @@ title: Publications
   - Coauthors: **MZ**, C. Okay, R. Raussendorf, and A. Heimendahl.
   - [arXiv:2110.12318](https://arxiv.org/abs/2110.12318){:target="_blank"}
 
-- **Clifford covariance of Wigner functions, positive representation of Pauli measurement, and cohomology** [[pdf]](/files/papers/2110.11631.pdf){:target="_blank"}
+- **The role of cohomology in quantum computation with magic states** [[pdf]](/files/papers/2110.11631.pdf){:target="_blank"}
   - Coathors: R. Raussendorf, C. Okay, **MZ**, and P. Feldmann.
   - [arXiv:2110.11631](https://arxiv.org/abs/2110.11631){:target="_blank"}
 

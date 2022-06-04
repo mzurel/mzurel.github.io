@@ -8,16 +8,40 @@ title: Talks
 
 ### 2022
 - **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2022** (upcoming)
-  - Title: Hidden variable model for quantum computation with magic states on any number of qudits of any dimension
-  - Dates: August, 2022
+  - Title: Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension
+  - Dates: July, 2022
   - Location: University of Illinois at Urbana-Champaign, Champaign, Illinois
   - Format: talk
 
+- **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2022** (upcoming)
+  - Title: The role of cohomology in quantum computation with magic states
+  - Dates: July, 2022
+  - Location: University of Illinois at Urbana-Champaign, Champaign, Illinois
+  - Format: poster
+
+- **Quantum Physics and Logic (QPL) 2022**
+  - Title: Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension
+  - Dates: June, 2022
+  - Location: Oxford University, Oxford, UK
+  - Format: 10 minute talk
+
+- **Bilkent University Math Grad Seminar** (upcoming)
+  - Title: Polytopes in quantum computation and quatum information
+  - Dates: June, 2022
+  - Location: online
+  - Format: 60 minute talk
+
 - **Algebraic Structures in Quantum Computation (ASQC5) 2022** (upcoming)
-  - Title: TBA
+  - Title: Hidden Variable Models for Quantum Computation with Magic States
   - Dates: June, 2022
   - Location: University of British Columbia, Vancouver, Canada
-  - Format: 30 minute talk
+  - Format: 45 minute talk
+
+- **UBC Institute of Applied Mathematics Grad Seminar** (upcoming)
+  - Title: Polytopes in quantum computation and quantum information
+  - Dates: June, 2022
+  - Location: University of British Columbia, Vancouver, Canada
+  - Format: 60 minute talk
 
 - **Internal talk for QuEra Computing Inc. software/algorithms team**
   - Title: Classical simulation of quantum computation with magic states
