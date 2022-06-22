@@ -19,25 +19,25 @@ title: Talks
   - Location: University of Illinois at Urbana-Champaign, Champaign, Illinois
   - Format: poster
 
-- **Quantum Physics and Logic (QPL) 2022**
+- **Quantum Physics and Logic (QPL) 2022** (upcoming)
   - Title: Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension
   - Dates: June, 2022
   - Location: Oxford University, Oxford, UK
   - Format: 10 minute talk
 
-- **Bilkent University Math Grad Seminar** (upcoming)
-  - Title: Polytopes in quantum computation and quantum information
+- **Bilkent University Math Grad Seminar**
+  - Title: Polytope theory and classical simulation of quantum computation
   - Dates: June, 2022
   - Location: online
   - Format: 60 minute talk
 
-- **Algebraic Structures in Quantum Computation (ASQC5) 2022** (upcoming)
+- **Algebraic Structures in Quantum Computation (ASQC5) 2022**
   - Title: Hidden Variable Models for Quantum Computation with Magic States
   - Dates: June, 2022
   - Location: University of British Columbia, Vancouver, Canada
   - Format: 45 minute talk
 
-- **UBC Institute of Applied Mathematics Grad Seminar** (upcoming)
+- **UBC Institute of Applied Mathematics Grad Seminar**
   - Title: Polytopes in quantum computation and quantum information
   - Dates: June, 2022
   - Location: University of British Columbia, Vancouver, Canada
