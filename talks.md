@@ -19,7 +19,7 @@ title: Talks
   - Location: University of Illinois at Urbana-Champaign, Champaign, Illinois
   - Format: poster
 
-- **Quantum Physics and Logic (QPL) 2022** (upcoming)
+- **Quantum Physics and Logic (QPL) 2022**
   - Title: Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension
   - Dates: June, 2022
   - Location: Oxford University, Oxford, UK
