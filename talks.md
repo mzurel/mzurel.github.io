@@ -45,7 +45,7 @@ title: Talks
   - Title: Hidden variable model for universal quantum computation with magic states on qubits
   - Dates: June, 2020
   - Location: University of British Columbia, Vancouver, Canada (online)
-  - Format: 1 hour talk
+  - Format: 60 minute talk
   - Links: [[video]](https://youtu.be/Oo6HHSiiJzo){:target="_blank"}
 
 ### 2019
