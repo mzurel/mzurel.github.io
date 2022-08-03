@@ -1,0 +1,8 @@
+@mastersthesis{Zurel2020,
+  title = {Hidden variable models and classical simulation algorithms for quantum computation with magic states on qubits},
+  author = {Michael Zurel},
+  year = {2020},
+  type = {MSc thesis},
+  institution = {University of British Columbia},
+  doi = {10.14288/1.0394790}
+}

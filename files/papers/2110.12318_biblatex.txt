@@ -1,0 +1,7 @@
+@unpublished{2110.12318,
+	title = {Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension},
+	author = {Michael Zurel and Cihan Okay and Robert Raussendorf and Arne Heimendahl},
+	year = {2021},
+	eprint = {2110.12318},
+	eprinttype = {arXiv}
+}

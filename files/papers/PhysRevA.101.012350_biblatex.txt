@@ -1,0 +1,16 @@
+@article{PhysRevA.101.012350,
+  title = {Phase-space-simulation method for quantum computation with magic states on qubits},
+  author = {Raussendorf, Robert and Bermejo-Vega, Juani and Tyhurst, Emily and Okay, Cihan and Zurel, Michael},
+  journal = {Physical Review A},
+  volume = {101},
+  number = {1},
+  pages = {012350},
+  numpages = {21},
+  year = {2020},
+  month = {Jan},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevA.101.012350},
+  url = {https://link.aps.org/doi/10.1103/PhysRevA.101.012350},
+  eprint = {1905.05374},
+  eprinttype = {arXiv}
+}
