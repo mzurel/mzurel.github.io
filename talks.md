@@ -12,6 +12,7 @@ title: Talks
   - Dates: July, 2022
   - Location: University of Illinois at Urbana-Champaign, Champaign, Illinois
   - Format: 25 minute talk
+  - Links: [[video]](https://youtu.be/10lOYkcyT6E?t=1418){:target="_blank"}
 
 - **Quantum Physics and Logic (QPL) 2022**
   - Title: Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension
