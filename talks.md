@@ -5,6 +5,11 @@ title: Talks
 ---
 
 ## Conference talks
+### 2023
+- **Coogee 2023 Workshop**
+  - Title: TBA
+  - Dates: February, 2023
+  - Location: University of Sydney, Sydney, Australia
 
 ### 2022
 - **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2022**
@@ -58,6 +63,18 @@ title: Talks
 
 ## Seminars
 ### 2022
+- **Shealf talks (Samson Abramsky group seminar @ University of Oxford)**
+  - Title: TBA
+  - Dates: December, 2022
+  - Location: Zoom
+  - Format: 60 minute talk
+
+- **FoQaCiA collaboration kick-off meeting**
+  - Title: Classical simulation of quantum computation based on the Λ-polytopes
+  - Dates: November, 2022
+  - Location: Iberian Nanotechnology Laboratory, Braga, Portugal
+  - Format: 60 minute talk
+
 - **Quantum information theory group seminar @ University of Cologne**
   - Title: Quasiprobability representations for quantum computation with magic states
   - Dates: July, 2022

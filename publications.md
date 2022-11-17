@@ -18,7 +18,7 @@ title: Publications
 ## Publications
 
 ### 2021
-- **On the extremal points of the $\Lambda$-polytopes and classical simulation of quantum computation with magic states** [[pdf]](/files/papers/QIC21.13-14-2.pdf){:target="_blank"}, [[biblatex]](/files/papers/QIC21.13-14-2_biblatex.txt){:target="_blank"}
+- **On the extremal points of the Λ-polytopes and classical simulation of quantum computation with magic states** [[pdf]](/files/papers/QIC21.13-14-2.pdf){:target="_blank"}, [[biblatex]](/files/papers/QIC21.13-14-2_biblatex.txt){:target="_blank"}
   - Coauthors: C. Okay, **MZ**, and R. Raussendorf.
   - Published verions: [Quantum Information & Computation **21** (13), pp.1091--1110 (2021)](https://doi.org/10.26421/QIC21.13-14-2){:target="_blank"}
   - arXiv verion: [arXiv:2104.05822](https://arxiv.org/abs/2104.05822){:target="_blank"}
