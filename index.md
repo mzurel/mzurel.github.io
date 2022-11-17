@@ -3,6 +3,16 @@ layout: default
 title: About me
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y4PJ8XBD0B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y4PJ8XBD0B');
+</script>
+
 ## Bio
 ![Brandywine](/files/photos/CoverPhoto.jpg){: width="400" style="float:right; padding-left:10px"}
 
