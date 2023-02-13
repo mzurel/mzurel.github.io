@@ -7,9 +7,10 @@ title: Talks
 ## Conference talks
 ### 2023
 - **Coogee 2023 Workshop**
-  - Title: TBA
+  - Title: No-go theorems for discrete Wigner functions and alternative quasiprobability representations for quantum computation
   - Dates: February, 2023
   - Location: University of Sydney, Sydney, Australia
+  - Format: 60 minute talk
 
 ### 2022
 - **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2022**
