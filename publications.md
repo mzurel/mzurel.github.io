@@ -4,24 +4,18 @@ permalink: /publications/
 title: Publications
 ---
 
-## Preprints
+## Publications
 
-### 2021
-- **Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension** [[pdf]](/files/papers/2110.12318.pdf){:target="_blank"}, [[biblatex]](/files/papers/2110.12318_biblatex.txt){:target="_blank"}
-  - Coauthors: **MZ**, C. Okay, R. Raussendorf, and A. Heimendahl.
-  - [arXiv:2110.12318](https://arxiv.org/abs/2110.12318){:target="_blank"}
-
+### 2023
 - **The role of cohomology in quantum computation with magic states** [[pdf]](/files/papers/2110.11631.pdf){:target="_blank"}, [[biblatex]](/files/papers/2110.11631_biblatex.txt){:target="_blank"}
   - Coathors: R. Raussendorf, C. Okay, **MZ**, and P. Feldmann.
-  - [arXiv:2110.11631](https://arxiv.org/abs/2110.11631){:target="_blank"}
-
-
-## Publications
+  - Published version: [Quantum **7**, 979 (2023)](	https://doi.org/10.22331/q-2023-04-13-979){:target="_blank"}
+  - arXiv version: [arXiv:2110.11631](https://arxiv.org/abs/2110.11631){:target="_blank"}
 
 ### 2021
 - **On the extremal points of the Λ-polytopes and classical simulation of quantum computation with magic states** [[pdf]](/files/papers/QIC21.13-14-2.pdf){:target="_blank"}, [[biblatex]](/files/papers/QIC21.13-14-2_biblatex.txt){:target="_blank"}
   - Coauthors: C. Okay, **MZ**, and R. Raussendorf.
-  - Published verions: [Quantum Information & Computation **21** (13), pp.1091--1110 (2021)](https://doi.org/10.26421/QIC21.13-14-2){:target="_blank"}
+  - Published verions: [Quantum Information & Computation **21** (13), pp. 1091--1110 (2021)](https://doi.org/10.26421/QIC21.13-14-2){:target="_blank"}
   - arXiv verion: [arXiv:2104.05822](https://arxiv.org/abs/2104.05822){:target="_blank"}
 
 ### 2020
@@ -34,6 +28,14 @@ title: Publications
   - Coauthors: R. Raussendorf, J. Bermejo-Vega, E. Tyhurst, C. Okay, and **MZ**.
   - Published version: [Physical Review A **101** (1), 012350 (2020)](https://link.aps.org/doi/10.1103/PhysRevA.101.012350){:target="_blank"}
   - arXiv version: [arXiv:1905.05374](https://arxiv.org/abs/1905.05374){:target="_blank"}
+
+
+## Preprints
+
+### 2021
+- **Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension** [[pdf]](/files/papers/2110.12318.pdf){:target="_blank"}, [[biblatex]](/files/papers/2110.12318_biblatex.txt){:target="_blank"}
+  - Coauthors: **MZ**, C. Okay, R. Raussendorf, and A. Heimendahl.
+  - [arXiv:2110.12318](https://arxiv.org/abs/2110.12318){:target="_blank"}
 
 
 ## Master's Thesis

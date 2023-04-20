@@ -1,7 +1,11 @@
-@unpublished{2110.11631,
+@article{2110.11631,
 	title = {The role of cohomology in quantum computation with magic states},
 	author = {Robert Raussendorf and Cihan Okay and Michael Zurel and Polina Feldmann},
-	year = {2021},
+	journal = {Quantum},
+	volume = {7},
+	pages = {979},
+	doi = {10.22331/q-2023-04-13-979},
+	year = {2023},
 	eprint = {2110.11631},
 	eprinttype = {arXiv}
 }
