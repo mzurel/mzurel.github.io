@@ -7,7 +7,7 @@ title: Publications
 ## Publications
 
 ### 2023
-- **The role of cohomology in quantum computation with magic states** [[pdf]](/files/papers/2110.11631.pdf){:target="_blank"}, [[biblatex]](/files/papers/2110.11631_biblatex.txt){:target="_blank"}
+- **The role of cohomology in quantum computation with magic states** [[pdf]](/files/papers/q-2023-04-13-979.pdf){:target="_blank"}, [[biblatex]](/files/papers/q-2023-04-13-979_biblatex.txt){:target="_blank"}
   - Coathors: R. Raussendorf, C. Okay, **MZ**, and P. Feldmann.
   - Published version: [Quantum **7**, 979 (2023)](	https://doi.org/10.22331/q-2023-04-13-979){:target="_blank"}
   - arXiv version: [arXiv:2110.11631](https://arxiv.org/abs/2110.11631){:target="_blank"}
