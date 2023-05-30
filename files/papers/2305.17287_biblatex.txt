@@ -1,0 +1,7 @@
+@unpublished{2305.17287,
+	title = {Simulating quantum computation with magic states: how many “bits” for “it”?},
+	author = {Michael Zurel and Cihan Okay and Robert Raussendorf},
+	year = {2023},
+	eprint = {2305.17287},
+	eprinttype = {arXiv}
+}
