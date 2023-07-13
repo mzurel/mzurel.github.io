@@ -6,6 +6,12 @@ title: Talks
 
 ## Conference talks
 ### 2023
+- **Quantum Physics and Logic (QPL) 2023**
+  - Title: Simulation of quantum computation with magic states via Jordan-Wigner transformations
+  - Dates: July, 2023
+  - Location: Institut Henri Poincaré, Paris, France
+  - Format: 30 minute talk (presented by a co-author)
+
 - **Coogee 2023 Workshop**
   - Title: No-go theorems for discrete Wigner functions and alternative quasiprobability representations for quantum computation
   - Dates: February, 2023
@@ -101,6 +107,13 @@ title: Talks
   - Format: 45 minute talk
 
 ## Poster presentations
+### 2023
+- **Quantum Physics and Logic (QPL) 2023**
+  - Title: Simulating quantum computation with magic states: How many "bits" for "it"?
+  - Dates: July, 2023
+  - Location: Institut Henri Poincaré, Paris, France
+  - Links: [[poster pdf]](/files/posters/QPL2023Poster.pdf){:target="_blank"}
+
 ### 2022
 - **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2022**
   - Title: The role of cohomology in quantum computation with magic states
