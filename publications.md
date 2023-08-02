@@ -37,6 +37,11 @@ title: Publications
 ## Preprints
 
 ### 2023
+- **Simulation of quantum computation with magic states via Jordan-Wigner Transformations** [[pdf]](/files/papers/2307.16034.pdf){:target="_blank"}, [[biblatex]](/files/papers/2307.16034_biblatex.txt){:target="_blank"}
+  - ![Lambda polytope hierarchy diagram](/files/papers/2307.16034_figure.png){: style="float: left"; height="35%" width="35%"}
+  - Coauthors: **MZ**, L.Z. Cohen, R. Raussendorf.
+  - [arXiv:2307.16034](https://arxiv.org/abs/2307.16034){:target="_blank"}
+
 - **Simulating quantum computation with magic states: how many "bits" for "it"?** [[pdf]](/files/papers/2305.17287.pdf){:target="_blank"}, [[biblatex]](/files/papers/2305.17287_biblatex.txt){:target="_blank"}
   - ![Quantum computation diagram](/files/papers/2305.17287_figure1.png){: style="float: left"; height="30%" width="30%"} ![Quantum computation diagram](/files/papers/2305.17287_figure2.png){: style="float: left"; height="30%" width="30%"}
   - Coauthors: **MZ**, C. Okay, R. Raussendorf.
