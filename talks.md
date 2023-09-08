@@ -69,6 +69,13 @@ title: Talks
   - Format: 25 minute talk
 
 ## Seminars
+### 2023
+- **QLOC Group seminar @ Iberian Nanotechnology Laboratory**
+  - Title: A hierarchy of classical simulation algorithms for quantum computation
+  - Dates: September, 2023
+  - Location: Iberian Nanotechnology Laboratory, Braga, Portugal
+  - Format: 60 minute talk
+
 ### 2022
 - **Shealf talks (Samson Abramsky group seminar @ University of Oxford)**
   - Title: No-go theorems for discrete Wigner functions and alternative quasiprobability representations for quantum computation
