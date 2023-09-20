@@ -6,6 +6,12 @@ title: Talks
 
 ## Conference talks
 ### 2023
+- **Southwest Quantum Information and Technology (SQuInT) Workshop 2023**
+  - Title: Simulating quantum computation: how many "bits" for "it"?
+  - Dates: October, 2023
+  - Location: University of New Mexico, Albuquerque, USA
+  - Format: 30 minute talk
+
 - **Quantum Physics and Logic (QPL) 2023**
   - Title: Simulation of quantum computation with magic states via Jordan-Wigner transformations
   - Dates: July, 2023
@@ -115,6 +121,11 @@ title: Talks
 
 ## Poster presentations
 ### 2023
+- **Southwest Quantum Information and Technology (SQuInT) Workshop**
+  - Title: Simulation of quantum computation with magic states via Jordan-Wigner transformations
+  - Dates: October, 2023
+  - Location: University of New Mexico, Albuquerque, USA
+
 - **Quantum Physics and Logic (QPL) 2023**
   - Title: Simulating quantum computation with magic states: How many "bits" for "it"?
   - Dates: July, 2023
