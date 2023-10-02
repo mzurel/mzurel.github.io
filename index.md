@@ -4,9 +4,9 @@ title: About me
 ---
 
 ## Bio
-![Brandywine](/files/photos/CoverPhoto.jpg){: width="400" style="float:right; padding-left:10px"}
+![Brandywine](/files/photos/CoverPhoto.JPG){: width="300" style="float:right; padding-left:10px"}
 
-I am a PhD student in Physics at the University of British Columbia and the Stewart Blusson Quantum Matter Institute. I work on quantum information and quantum computation under the supervision of Dr. Robert Raussendorf. In particular, I study quantum contextuality, negativity in quasiprobability representations, and other indicators of nonclassicality in hidden variable models, and their relation to the computational speedup of quantum computation over classical computation.
+I am a PhD candidate in Physics at the University of British Columbia and the Stewart Blusson Quantum Matter Institute. I work on quantum information and quantum computation under the supervision of [Dr. Robert Raussendorf](https://g.co/kgs/h9wh4n){:target="_blank"} and [Dr. William G. Unruh](https://g.co/kgs/P5QevA){:target="_blank"}. In particular, I study quantum contextuality, negativity in quasiprobability representations, and other indicators of nonclassicality in hidden variable models, and their relation to the computational speedup of quantum computation over classical computation.
 
 My CV can be downloaded [here](/files/cv.pdf){:target="_blank"}.
 
@@ -27,9 +27,10 @@ My CV can be downloaded [here](/files/cv.pdf){:target="_blank"}.
 
 ## Collaborators
 Some of my recent collaborators include
-- [Dr. Robert Raussendorf](https://phas.ubc.ca/~raussen/){:target="_blank"}
+- [Dr. Robert Raussendorf](https://g.co/kgs/h9wh4n){:target="_blank"}
 - [Dr. Cihan Okay](http://cihan.okay.bilkent.edu.tr/){:target="_blank"}
-- Dr. Polina Feldmann
-- [Arne Heimendahl](https://www.mi.uni-koeln.de/opt/arne-heimendahl/){:target="_blank"}
+- [Larry Cohen](https://www.linkedin.com/in/lawrence-cohen-00950a231/){:target="_blank"}
+- [Dr. Polina Feldmann](https://www.researchgate.net/scientific-contributions/Polina-Feldmann-2165463528){:target="_blank"}
+- [Dr. Arne Heimendahl](https://www.mi.uni-koeln.de/opt/arne-heimendahl/){:target="_blank"}
 - [Dra. Jara Juana Bermejo-Vega](https://scholar.google.com/citations?user=bcI03DIAAAAJ&hl=en&inst=17001591832933267808&oi=ao){:target="_blank"}
 - [Emily Tyhurst](https://www.physics.utoronto.ca/~etyhurst/){:target="_blank"}
