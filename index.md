@@ -24,7 +24,7 @@ My research statement is [here](/files/ResearchStatement.pdf){:target="_blank"}.
 - Graduated with a MSc in Physics from University of British Columbia in November, 2020
   - Master of Science in Physics
   - Masters thesis: *Hidden Variable Models and Classical Simulation Algorithms for Quantum Computation with Magic States on Qubits* [[pdf]](/files/papers/ubc_2020_november_zurel_michael.pdf){:target="_blank"} supervised by Dr. Robert Raussendorf
-- Currently a PhD student in Physics at University of British Columbia and Stewart Blusson Quantum Matter Institute supervised by Dr. Robert Raussendorf
+- Currently a PhD candidate in Physics at University of British Columbia and Stewart Blusson Quantum Matter Institute supervised by Dr. Robert Raussendorf and Dr. William G. Unruh
 
 ## Collaborators
 Some of my recent collaborators include
