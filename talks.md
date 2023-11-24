@@ -120,6 +120,17 @@ title: Talks
   - Format: 45 minute talk
 
 ## Poster presentations
+### 2024
+- **Quantum Information Processing (QIP)**
+  - Title: Simulation of quantum computation with magic states via Jordan-Wigner transformations
+  - Dates: January, 2024
+  - Location: Taipei International Convention Center, Taipei, Taiwan
+
+- **Quantum Informtation Processing (QIP)**
+  - Title: Simulating quantum computation: how many "bits" for "it"?
+  - Dates: January, 2024
+  - Location: Taipei International Convention Center, Taipei, Taiwan
+
 ### 2023
 - **Southwest Quantum Information and Technology (SQuInT) Workshop**
   - Title: Simulation of quantum computation with magic states via Jordan-Wigner transformations
