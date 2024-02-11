@@ -125,11 +125,13 @@ title: Talks
   - Title: Simulation of quantum computation with magic states via Jordan-Wigner transformations
   - Dates: January, 2024
   - Location: Taipei International Convention Center, Taipei, Taiwan
+  - Links: [[poster pdf]](/files/posters/2024QIPPosterB.pdf){:target="_blank"}
 
 - **Quantum Informtation Processing (QIP)**
   - Title: Simulating quantum computation: how many "bits" for "it"?
   - Dates: January, 2024
   - Location: Taipei International Convention Center, Taipei, Taiwan
+  - Links: [[poster pdf]](/files/posters/2024QIPPosterA.pdf){:target="_blank"}
 
 ### 2023
 - **Southwest Quantum Information and Technology (SQuInT) Workshop**
@@ -141,31 +143,31 @@ title: Talks
   - Title: Simulating quantum computation with magic states: How many "bits" for "it"?
   - Dates: July, 2023
   - Location: Institut Henri Poincaré, Paris, France
-  - Links: [[poster pdf]](/files/posters/QPL2023Poster.pdf){:target="_blank"}
+  - Links: [[poster pdf]](/files/posters/2023QPLPoster.pdf){:target="_blank"}
 
 ### 2022
 - **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2022**
   - Title: The role of cohomology in quantum computation with magic states
   - Dates: July, 2022
   - Location: University of Illinois at Urbana-Champaign, Champaign, Illinois
-  - Links: [[poster pdf]](/files/posters/TQC2022Poster.pdf){:target="_blank"}
+  - Links: [[poster pdf]](/files/posters/2022TQCPoster.pdf){:target="_blank"}
 
 - **Quantum Information Processing (QIP) 2022**
   - Title: Hidden variable model for quantum computation with magic states on any number of qudits of any dimension
   - Dates: March, 2022
   - Location: California Institute of Technology, Pasadena, California (online)
-  - Links: [[poster pdf]](/files/posters/QIP2022Poster.pdf){:target="_blank"}
+  - Links: [[poster pdf]](/files/posters/2022QIPPoster.pdf){:target="_blank"}
 
 ### 2021
 - **Quantum Information Processing (QIP) 2021**
   - Title: Hidden variable model for universal quantum computation with magic states on qubits
   - Dates: March, 2021
   - Location: Technical University of Munich, Munich, Germany (online)
-  - Links: [[poster pdf]](/files/posters/QIP2021Poster.pdf){:target="_blank"}
+  - Links: [[poster pdf]](/files/posters/2021QIPPoster.pdf){:target="_blank"}
 
 ### 2020
 - **Southwest Quantum Information and Technology (SQuInT) 2020**
   - Title: Phase-space-simulation method for quantum computation with magic states on qubits
   - Dates: February, 2020
   - Location: University of Oregon, Eugene, Oregon
-  - Links: [[poster pdf]](/files/posters/SQuInT2020Poster.pdf){:target="_blank"}
+  - Links: [[poster pdf]](/files/posters/2020SQuInTPoster.pdf){:target="_blank"}
