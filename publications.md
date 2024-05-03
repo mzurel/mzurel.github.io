@@ -6,6 +6,13 @@ title: Publications
 
 ## Publications
 
+### 2024
+- **Hidden variable model for quantum computation with magic states on qudits of any dimension** [[pdf]](/files/papers/q-2024-04-30-1323.pdf){:target="_blank"}, [[biblatex]](/files/papers/q-2024-04-30-1323_biblatex.txt){:target="_blank"}
+  - ![Lambda polytope diagram](/files/papers/q-2024-04-30-1323_figure.png){: style="float: left"; height="35%" width="35%"}
+  - Coauthors: **MZ**, C. Okay, R. Raussendorf, and A. Heimendahl.
+  - Published version: [Quantum **8**, 1323 (2024)](https://doi.org/10.22331/q-2024-04-30-1323){:target="_blank"}
+  - [arXiv:2110.12318](https://arxiv.org/abs/2110.12318){:target="_blank"}
+
 ### 2023
 - **The role of cohomology in quantum computation with magic states** [[pdf]](/files/papers/q-2023-04-13-979.pdf){:target="_blank"}, [[biblatex]](/files/papers/q-2023-04-13-979_biblatex.txt){:target="_blank"}
   - ![Web of cohomology](/files/papers/q-2023-04-13-979_figure.jpg){: style="float: left"; height="55%" width="55%"}
@@ -46,12 +53,6 @@ title: Publications
   - ![Quantum computation diagram](/files/papers/2305.17287_figure1.png){: style="float: left"; height="30%" width="30%"} ![Quantum computation diagram](/files/papers/2305.17287_figure2.png){: style="float: left"; height="30%" width="30%"}
   - Coauthors: **MZ**, C. Okay, R. Raussendorf.
   - [arXiv:2305:17287](https://arxiv.org/abs/2305.17287){:target="_blank"}
-
-### 2021
-- **Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension** [[pdf]](/files/papers/2110.12318.pdf){:target="_blank"}, [[biblatex]](/files/papers/2110.12318_biblatex.txt){:target="_blank"}
-  - ![Lambda polytope diagram](/files/papers/2110.12318_figure.png){: style="float: left"; height="35%" width="35%"}
-  - Coauthors: **MZ**, C. Okay, R. Raussendorf, and A. Heimendahl.
-  - [arXiv:2110.12318](https://arxiv.org/abs/2110.12318){:target="_blank"}
 
 
 ## Master's Thesis

@@ -1,0 +1,12 @@
+@article{Zurel2024hiddenvariablemodel,
+  title = {Hidden variable model for quantum computation with magic states on qudits of any dimension},
+  author = {Zurel, Michael and Okay, Cihan and Raussendorf, Robert and Heimendahl, Arne},
+  journal = {{Quantum}},
+  volume = {8},
+  pages = {1323},
+  year = {2024},
+  doi = {10.22331/q-2024-04-30-1323},
+  url = {https://doi.org/10.22331/q-2024-04-30-1323},
+  eprint = {2110.12318},
+  eprinttype = {arXiv}
+}
