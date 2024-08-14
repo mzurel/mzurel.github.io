@@ -4,7 +4,7 @@ title: About me
 ---
 
 ## Bio
-![Brandywine](/files/photos/CoverPhoto.JPG){: width="300" style="float:right; padding-left:10px"}
+![Chain Lakes Loop Trail at Mount Baker in Washington, USA](/files/photos/CoverPhoto.JPG){: width="300" style="float:right; padding-left:10px"}
 
 I am a PhD candidate in Physics at the University of British Columbia and the Stewart Blusson Quantum Matter Institute. I work on quantum information and quantum computation under the supervision of [Dr. Robert Raussendorf](https://g.co/kgs/h9wh4n){:target="_blank"} and [Dr. William G. Unruh](https://g.co/kgs/P5QevA){:target="_blank"}. In particular, I study quantum contextuality, negativity in quasiprobability representations, and other indicators of nonclassicality in hidden variable models, and their relation to the computational speedup of quantum computation over classical computation.
 

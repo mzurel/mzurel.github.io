@@ -5,6 +5,13 @@ title: Talks
 ---
 
 ## Conference talks
+### 2024
+- **Quantum Physics and Logic (QPL) 2024**
+  - Title: Efficient classical simulation of quantum computation beyond Wigner positivity
+  - Dates: July, 2024
+  - Location: Ciudad Universitaria de Buenos Aires, Buenos Aires, Argentina
+  - Format: 30 minute talk
+
 ### 2023
 - **Southwest Quantum Information and Technology (SQuInT) Workshop 2023**
   - Title: Simulating quantum computation: how many "bits" for "it"?
@@ -75,6 +82,32 @@ title: Talks
   - Format: 25 minute talk
 
 ## Seminars
+
+### 2024
+- **David Gross group seminar @ University of Cologne**
+  - Title: Efficient classical simulation of quantum computation beyond Wigner positivity
+  - Dates: April, 2024
+  - Location: University of Cologne, Cologne, Germany
+  - Format: 60 minute talk
+
+- **Quantum information group seminar @ Leibniz University Hannover**
+  - Title: A hierarchy of classical simulation algorithms for quantum computation of increasing complexity
+  - Dates: April, 2024
+  - Location: Leibniz University Hannover
+  - Format: 60 minute talk
+
+- **Quantum information seminar @ University of Cambridge, Department of Applied Mathematics and Theoretical Physics**
+  - Title: A hierarchy of classical simulation algorithms for quantum computation of increasing complexity
+  - Dates: April, 2024
+  - Location, University of Cambridge, Cambridge, UK
+  - Format: 60 minute talk
+
+- **Dan Browne group seminar @ University College London**
+  - Title: A hierarchy of classical simulation algorithms for quantum computation of increasing complexity
+  - Dates: April, 2024
+  - Location: University College London, London, UK
+  - Format: 60 minute talk
+
 ### 2023
 - **QLOC Group seminar @ Iberian Nanotechnology Laboratory**
   - Title: A hierarchy of classical simulation algorithms for quantum computation

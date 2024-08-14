@@ -1,0 +1,7 @@
+@unpublished{2407.10349,
+      title = {Efficient classical simulation of quantum computation beyond Wigner positivity},
+      author = {Michael Zurel and Arne Heimendahl},
+      year = {2024},
+      eprint = {2407.10349},
+      eprinttype = {arXiv}
+}
