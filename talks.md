@@ -154,6 +154,11 @@ title: Talks
 
 ## Poster presentations
 ### 2024
+- **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2024**
+  - Title: Efficient classical simulation of quantum computation beyond Wigner positivity
+  - Dates: September, 2024
+  - Location: Okinawa Institute of Science and Technology, Okinawa, Japan
+
 - **Quantum Information Processing (QIP)**
   - Title: Simulation of quantum computation with magic states via Jordan-Wigner transformations
   - Dates: January, 2024

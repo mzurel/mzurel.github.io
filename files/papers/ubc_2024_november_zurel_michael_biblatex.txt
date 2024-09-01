@@ -1,0 +1,8 @@
+@phdthesis{Zurel2024,
+  title = {Classical descriptions of quantum computations : foundations of quantum computation via hidden variable models, quasiprobability representations, and classical simulation algorithms},
+  author = {Michael Zurel},
+  year = {2024},
+  type = {PhD thesis},
+  institution = {University of British Columbia},
+  doi = {10.14288/1.0445223}
+}

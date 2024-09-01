@@ -55,6 +55,10 @@ title: Publications
   - [arXiv:2305:17287](https://arxiv.org/abs/2305.17287){:target="_blank"}
 
 
+## PhD Thesis
+- **Classical descriptions of quantum computations : foundations of quantum computation via hidden variable models, quasiprobability representations, and classical simulation algorithms** [[pdf]](/files/papers/ubc_2024_november_zurel_michael.pdf){:target="_blank"}, [[biblatex]](/files/papers/ubc_2024_november_zurel_michael_biblatex.txt){:target="_blank"}
+  - University of British Columbia library link: [https://dx.doi.org/10.14288/1.0445223](https://dx.doi.org/10.14288/1.0445223){:target="_blank"}
+
 ## Master's Thesis
-- **Hidden Variable Models and Classical Simulation Algorithms for Quantum Computation with Magic States on Qubits** [[pdf]](/files/papers/ubc_2020_november_zurel_michael.pdf){:target="_blank"}, [[biblatex]](files/papers/ubc_2020_november_zurel_michael_biblatex.txt){:target="_blank"}
+- **Hidden Variable Models and Classical Simulation Algorithms for Quantum Computation with Magic States on Qubits** [[pdf]](/files/papers/ubc_2020_november_zurel_michael.pdf){:target="_blank"}, [[biblatex]](/files/papers/ubc_2020_november_zurel_michael_biblatex.txt){:target="_blank"}
   - University of British Columbia library link: [https://dx.doi.org/10.14288/1.0394790](https://dx.doi.org/10.14288/1.0394790){:target="_blank"}
