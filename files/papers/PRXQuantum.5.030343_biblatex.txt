@@ -1,0 +1,16 @@
+@article{PRXQuantum.5.030343,
+  title = {Simulating Quantum Computation: How Many ``Bits'' for ``It''?},
+  author = {Zurel, Michael and Okay, Cihan and Raussendorf, Robert},
+  journal = {PRX Quantum},
+  volume = {5},
+  number = {3},
+  pages = {030343},
+  numpages = {9},
+  year = {2024},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/PRXQuantum.5.030343},
+  url = {https://link.aps.org/doi/10.1103/PRXQuantum.5.030343},
+  eprint = {2305.17287},
+  eprinttype = {arXiv}
+}

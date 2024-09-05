@@ -6,11 +6,17 @@ title: Publications
 
 ## Publications
 
+- **Simulating quantum computation: how many "bits" for "it"?** [[pdf]](/files/papers/PRXQuantum.5.030343.pdf){:target="_blank"}, [[biblatex]](/files/papers/PRXQuantum.5.030343_biblatex.txt){:target="_blank"}
+  - ![Quantum computation diagram](/files/papers/PRXQuantum.5.030343_KeyImage.png){: style="float: left"; height="30%" width="30%"}
+  - Coauthors: **MZ**, C. Okay, and R. Raussendorf.
+  - Published version: [PRX Quantum **5**, 030343 (2024)](https://doi.org/10.1103/PRXQuantum.5.030343){:target="_blank"}
+  - arXiv version: [arXiv:2305:17287](https://arxiv.org/abs/2305.17287){:target="_blank"}
+
 - **Hidden variable model for quantum computation with magic states on qudits of any dimension** [[pdf]](/files/papers/q-2024-04-30-1323.pdf){:target="_blank"}, [[biblatex]](/files/papers/q-2024-04-30-1323_biblatex.txt){:target="_blank"}
-  - ![Lambda polytope diagram](/files/papers/q-2024-04-30-1323_figure.png){: style="float: left"; height="35%" width="35%"}
+  - ![Lambda polytope diagram](/files/papers/q-2024-04-30-1323_figure.png){: style="float: left"; height="45%" width="45%"}
   - Coauthors: **MZ**, C. Okay, R. Raussendorf, and A. Heimendahl.
   - Published version: [Quantum **8**, 1323 (2024)](https://doi.org/10.22331/q-2024-04-30-1323){:target="_blank"}
-  - [arXiv:2110.12318](https://arxiv.org/abs/2110.12318){:target="_blank"}
+  - arXiv version: [arXiv:2110.12318](https://arxiv.org/abs/2110.12318){:target="_blank"}
 
 - **The role of cohomology in quantum computation with magic states** [[pdf]](/files/papers/q-2023-04-13-979.pdf){:target="_blank"}, [[biblatex]](/files/papers/q-2023-04-13-979_biblatex.txt){:target="_blank"}
   - ![Web of cohomology](/files/papers/q-2023-04-13-979_figure.jpg){: style="float: left"; height="55%" width="55%"}
@@ -27,13 +33,13 @@ title: Publications
 - **Hidden variable model for universal quantum computation with magic states on qubits** [[pdf]](/files/papers/PhysRevLett.125.260404.pdf){:target="_blank"}, [[Supplementary Material]](/files/papers/UniversalQCSI_HVM_Suppl.pdf){:target="_blank"}, [[biblatex]](/files/papers/PhysRevLett.125.260404_biblatex.txt){:target="_blank"}
   - ![The Bloch cube](/files/papers/PhysRevLett.125.260404_figure.png){: style="float: left"; height="50%" width="50%"}
   - Coauthors: **MZ**, C. Okay, and R. Raussendorf.
-  - Published version: [Physical Review Letters **125** (26), 260404 (2020)](https://link.aps.org/doi/10.1103/PhysRevLett.125.260404){:target="_blank"}
+  - Published version: [Physical Review Letters **125**, 260404 (2020)](https://link.aps.org/doi/10.1103/PhysRevLett.125.260404){:target="_blank"}
   - arXiv version: [arXiv:2004.01992](https://arxiv.org/abs/2004.01992){:target="_blank"}
 
 - **Phase-space-simulation method for quantum computation with magic states on qubits** [[pdf]](/files/papers/PhysRevA.101.012350.pdf){:target="_blank"}, [[biblatex]](/files/papers/PhysRevA.101.012350_biblatex.txt){:target="_blank"}
   - ![CNC measurement update](/files/papers/PhysRevA.101.012350_figure.png){: style="float: left"; height="50%" width="50%"}
   - Coauthors: R. Raussendorf, J. Bermejo-Vega, E. Tyhurst, C. Okay, and **MZ**.
-  - Published version: [Physical Review A **101** (1), 012350 (2020)](https://link.aps.org/doi/10.1103/PhysRevA.101.012350){:target="_blank"}
+  - Published version: [Physical Review A **101**, 012350 (2020)](https://link.aps.org/doi/10.1103/PhysRevA.101.012350){:target="_blank"}
   - arXiv version: [arXiv:1905.05374](https://arxiv.org/abs/1905.05374){:target="_blank"}
 
 
@@ -48,11 +54,6 @@ title: Publications
   - ![Lambda polytope hierarchy diagram](/files/papers/2307.16034_figure.png){: style="float: left"; height="35%" width="35%"}
   - Coauthors: **MZ**, L.Z. Cohen, and R. Raussendorf.
   - [arXiv:2307.16034](https://arxiv.org/abs/2307.16034){:target="_blank"}
-
-- **Simulating quantum computation with magic states: how many "bits" for "it"?** [[pdf]](/files/papers/2305.17287.pdf){:target="_blank"}, [[biblatex]](/files/papers/2305.17287_biblatex.txt){:target="_blank"}
-  - ![Quantum computation diagram](/files/papers/2305.17287_figure1.png){: style="float: left"; height="30%" width="30%"} ![Quantum computation diagram](/files/papers/2305.17287_figure2.png){: style="float: left"; height="30%" width="30%"}
-  - Coauthors: **MZ**, C. Okay, and R. Raussendorf.
-  - [arXiv:2305:17287](https://arxiv.org/abs/2305.17287){:target="_blank"}
 
 
 ## PhD Thesis
