@@ -6,60 +6,60 @@ title: Talks
 
 ## Conference talks
 ### 2024
-- **Quantum Physics and Logic (QPL) 2024**
+- **Quantum Physics and Logic (QPL)**
   - Title: Efficient classical simulation of quantum computation beyond Wigner positivity
   - Dates: July, 2024
   - Location: Ciudad Universitaria de Buenos Aires, Buenos Aires, Argentina
   - Format: 30 minute talk
 
 ### 2023
-- **Southwest Quantum Information and Technology (SQuInT) Workshop 2023**
+- **Southwest Quantum Information and Technology (SQuInT) Workshop**
   - Title: Simulating quantum computation: how many "bits" for "it"?
   - Dates: October, 2023
   - Location: University of New Mexico, Albuquerque, USA
   - Format: 30 minute talk
 
-- **Quantum Physics and Logic (QPL) 2023**
+- **Quantum Physics and Logic (QPL)**
   - Title: Simulation of quantum computation with magic states via Jordan-Wigner transformations
   - Dates: July, 2023
   - Location: Institut Henri Poincaré, Paris, France
   - Format: 30 minute talk (presented by a co-author)
 
-- **Coogee 2023 Workshop**
+- **Coogee Workshop**
   - Title: No-go theorems for discrete Wigner functions and alternative quasiprobability representations for quantum computation
   - Dates: February, 2023
   - Location: University of Sydney, Sydney, Australia
   - Format: 60 minute talk
 
 ### 2022
-- **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2022**
+- **Theory of Quantum Computation, Communication, and Cryptography (TQC)**
   - Title: Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension
   - Dates: July, 2022
   - Location: University of Illinois at Urbana-Champaign, Champaign, Illinois
   - Format: 25 minute talk
   - Links: [[video]](https://youtu.be/10lOYkcyT6E?t=1418){:target="_blank"}
 
-- **Quantum Physics and Logic (QPL) 2022**
+- **Quantum Physics and Logic (QPL)**
   - Title: Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension
   - Dates: June, 2022
   - Location: Oxford University, Oxford, UK
   - Format: 10 minute talk
 
-- **Algebraic Structures in Quantum Computation (ASQC5) 2022**
+- **Algebraic Structures in Quantum Computation (ASQC5)**
   - Title: Hidden Variable Models for Quantum Computation with Magic States
   - Dates: June, 2022
   - Location: University of British Columbia, Vancouver, Canada
   - Format: 45 minute talk
 
 ### 2021
-- **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2021**
+- **Theory of Quantum Computation, Communication, and Cryptography (TQC)**
   - Title: Hidden variable model for universal quantum computation with magic states on qubits
   - Dates: July, 2021
   - Location: University of Latvia, Riga, Latvia (online)
   - Format: 30 minute talk
   - Links: [[video]](https://youtu.be/b1wYoOOLZCI){:target="_blank"}
 
-- **Quantum Physics and Logic (QPL) 2021**
+- **Quantum Physics and Logic (QPL)**
   - Title: Hidden variable model for universal quantum computation with magic states on qubits
   - Dates: June, 2021
   - Location: University of Gdansk, Gdansk, Poland (online)
@@ -67,7 +67,7 @@ title: Talks
   - Links: [[video]](https://youtu.be/ZJwLBAiV_Zc){:target="_blank"}
 
 ### 2020
-- **Algebraic Structures in Quantum Computation (ASQC4) 2020**
+- **Algebraic Structures in Quantum Computation (ASQC4)**
   - Title: Hidden variable model for universal quantum computation with magic states on qubits
   - Dates: June, 2020
   - Location: University of British Columbia, Vancouver, Canada (online)
@@ -75,7 +75,7 @@ title: Talks
   - Links: [[video]](https://youtu.be/Oo6HHSiiJzo){:target="_blank"}
 
 ### 2019
-- **Quantum Physics and Logic (QPL) 2019**
+- **Quantum Physics and Logic (QPL)**
   - Title: Phase-space-simulation method for quantum computation with magic states on qubits
   - Dates: June, 2019
   - Location: Chapman University, Orange, California
@@ -154,10 +154,16 @@ title: Talks
 
 ## Poster presentations
 ### 2024
-- **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2024**
+- **Southwest Quantum Information and Technology (SQuInT) Workshop**
+  - Title: Efficient classical simulation of quantum computation beyond Wigner positivity
+  - Dates: October, 2024
+  - Location: Boulder, Colorado
+
+- **Theory of Quantum Computation, Communication, and Cryptography (TQC)**
   - Title: Efficient classical simulation of quantum computation beyond Wigner positivity
   - Dates: September, 2024
   - Location: Okinawa Institute of Science and Technology, Okinawa, Japan
+  - Links: [[poster pdf]](/files/posters/2024TQCPoster.pdf){:target="_blank"}
 
 - **Quantum Information Processing (QIP)**
   - Title: Simulation of quantum computation with magic states via Jordan-Wigner transformations
@@ -177,34 +183,34 @@ title: Talks
   - Dates: October, 2023
   - Location: University of New Mexico, Albuquerque, USA
 
-- **Quantum Physics and Logic (QPL) 2023**
+- **Quantum Physics and Logic (QPL)**
   - Title: Simulating quantum computation with magic states: How many "bits" for "it"?
   - Dates: July, 2023
   - Location: Institut Henri Poincaré, Paris, France
   - Links: [[poster pdf]](/files/posters/2023QPLPoster.pdf){:target="_blank"}
 
 ### 2022
-- **Theory of Quantum Computation, Communication, and Cryptography (TQC) 2022**
+- **Theory of Quantum Computation, Communication, and Cryptography (TQC)**
   - Title: The role of cohomology in quantum computation with magic states
   - Dates: July, 2022
   - Location: University of Illinois at Urbana-Champaign, Champaign, Illinois
   - Links: [[poster pdf]](/files/posters/2022TQCPoster.pdf){:target="_blank"}
 
-- **Quantum Information Processing (QIP) 2022**
+- **Quantum Information Processing (QIP)**
   - Title: Hidden variable model for quantum computation with magic states on any number of qudits of any dimension
   - Dates: March, 2022
   - Location: California Institute of Technology, Pasadena, California (online)
   - Links: [[poster pdf]](/files/posters/2022QIPPoster.pdf){:target="_blank"}
 
 ### 2021
-- **Quantum Information Processing (QIP) 2021**
+- **Quantum Information Processing (QIP)**
   - Title: Hidden variable model for universal quantum computation with magic states on qubits
   - Dates: March, 2021
   - Location: Technical University of Munich, Munich, Germany (online)
   - Links: [[poster pdf]](/files/posters/2021QIPPoster.pdf){:target="_blank"}
 
 ### 2020
-- **Southwest Quantum Information and Technology (SQuInT) 2020**
+- **Southwest Quantum Information and Technology (SQuInT)**
   - Title: Phase-space-simulation method for quantum computation with magic states on qubits
   - Dates: February, 2020
   - Location: University of Oregon, Eugene, Oregon

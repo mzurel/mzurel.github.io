@@ -5,7 +5,7 @@ title: Contact
 ---
 
 # Email
-- Work email: [mzurel@phas.ubc.ca](mailto:mzurel@phas.ubc.ca)
+- Work email: [mzurel@sfu.ca](mailto:mzurel@sfu.ca)
 - Personal email: [mzurel@protonmail.com](mailto:mzurel@protonmail.com)
 
 # Social Media
