@@ -158,6 +158,7 @@ title: Talks
   - Title: Efficient classical simulation of quantum computation beyond Wigner positivity
   - Dates: October, 2024
   - Location: Boulder, Colorado
+  - Links: [[poster pdf]](/files/posters/2024SQuInTPoster.pdf){:target="_blank"}
 
 - **Theory of Quantum Computation, Communication, and Cryptography (TQC)**
   - Title: Efficient classical simulation of quantum computation beyond Wigner positivity

@@ -22,16 +22,16 @@ Research statement: [here](/files/ResearchStatement.pdf){:target="_blank"}.
   - Supervised by Dr. Robert Raussendorf
   - Masters thesis: *Hidden Variable Models and Classical Simulation Algorithms for Quantum Computation with Magic States on Qubits* [[pdf]](/files/papers/ubc_2020_november_zurel_michael.pdf){:target="_blank"}
 - Graduated with a PhD in Physics from University of British Columbia in August, 2024
-  - Supervised by [Dr. Robert Raussendorf](https://g.co/kgs/h9wh4n){:target="_blank"} and [Dr. William G. Unruh](https://g.co/kgs/P5QevA){:target="_blank"}
+  - Supervised by [Dr.&nbsp;Robert Raussendorf](https://g.co/kgs/h9wh4n){:target="_blank"} and [Dr.&nbsp;William G. Unruh](https://g.co/kgs/P5QevA){:target="_blank"}
   - PhD Thesis: *Classical descriptions of quantum computations : foundations of quantum computation via hidden variable models, quasiprobability representations, and classical simulation algorithms* [[pdf]](/files/papers/ubc_2024_november_zurel_michael.pdf){:target="_blank"}
 - Currently a postdoc in the Department of Mathematics at Simon Fraser University working with [Dr.&nbsp;Nadish de Silva](http://www.sfu.ca/~ndesilva/){:target="_blank"}, Canada Research Chair in the Mathematics of Quantum Computation
 
 ## Collaborators
 Some of my recent collaborators include
 - [Robert Raussendorf](https://g.co/kgs/h9wh4n){:target="_blank"}
-- [Cihan Okay](https://www.cihanokay.com/){:target="_blank"}
 - [Larry Cohen](https://www.linkedin.com/in/lawrence-cohen-00950a231/){:target="_blank"}
 - [Polina Feldmann](https://www.researchgate.net/scientific-contributions/Polina-Feldmann-2165463528){:target="_blank"}
 - [Arne Heimendahl](https://www.mi.uni-koeln.de/opt/arne-heimendahl/){:target="_blank"}
-- [Jara Juana Bermejo-Vega](https://scholar.google.com/citations?user=bcI03DIAAAAJ&hl=en&inst=17001591832933267808&oi=ao){:target="_blank"}
+- [Juani Bermejo-Vega](https://scholar.google.com/citations?user=bcI03DIAAAAJ&hl=en&inst=17001591832933267808&oi=ao){:target="_blank"}
 - [Emily Tyhurst](https://www.physics.utoronto.ca/~etyhurst/){:target="_blank"}
+- [Cihan Okay](https://www.cihanokay.com/){:target="_blank"}
