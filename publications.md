@@ -6,7 +6,7 @@ title: Publications
 
 ## Publications
 
-- **Simulating quantum computation: how many "bits" for "it"?** [[pdf]](/files/papers/PRXQuantum.5.030343.pdf){:target="_blank"}, [[biblatex]](/files/papers/PRXQuantum.5.030343_biblatex.txt){:target="_blank"}
+- **Simulating Quantum Computation: How Many "Bits" for "It"?** [[pdf]](/files/papers/PRXQuantum.5.030343.pdf){:target="_blank"}, [[biblatex]](/files/papers/PRXQuantum.5.030343_biblatex.txt){:target="_blank"}
   - ![Quantum computation diagram](/files/papers/PRXQuantum.5.030343_KeyImage.png){: style="float: left"; height="30%" width="30%"}
   - Coauthors: **MZ**, C. Okay, and R. Raussendorf.
   - Published version: [PRX Quantum **5**, 030343 (2024)](https://doi.org/10.1103/PRXQuantum.5.030343){:target="_blank"}

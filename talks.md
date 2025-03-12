@@ -5,6 +5,20 @@ title: Talks
 ---
 
 ## Conference talks
+### 2025
+- **Foundations of Quantum Computational Advantage (FoQaCiA) Workshop [Invited]**
+  - Title: Introduction to the Lambda polytopes and their applications
+  - Dates: June, 2025
+  - Location: International Iberian Nanotechnology Laboratory, Braga, Portugal
+  - Format: 45 minute talk
+
+- **Algebraic Structures in Quantum Computation VI (ASQC6) [Invited]**
+  - Title: Introduction to the Lambda polytopes and their applications
+  - Dates: February, 2025
+  - Location: Leibniz University Hannover, Hannover, Germany
+  - Formay: 45 minute talk
+  - Links: [[video]](https://youtu.be/SgOwwbwnpvU){:target="_blank"}
+
 ### 2024
 - **Quantum Physics and Logic (QPL)**
   - Title: Efficient classical simulation of quantum computation beyond Wigner positivity
@@ -25,13 +39,19 @@ title: Talks
   - Location: Institut Henri Poincaré, Paris, France
   - Format: 30 minute talk (presented by a co-author)
 
-- **Coogee Workshop**
+- **Coogee Workshop [Invited]**
   - Title: No-go theorems for discrete Wigner functions and alternative quasiprobability representations for quantum computation
   - Dates: February, 2023
   - Location: University of Sydney, Sydney, Australia
   - Format: 60 minute talk
 
 ### 2022
+- **Foundations of Quantum Computational Advantage (FoQaCiA) Workshop [Invited]**
+  - Title: Lambda polytopes and classical simulation of quantum computation with magic states
+  - Dates: November, 2022
+  - Location: International Iberian Nanotechnology Laboratory, Braga, Portugal
+  - Format: 45 minute talk
+
 - **Theory of Quantum Computation, Communication, and Cryptography (TQC)**
   - Title: Hidden Variable Model for Quantum Computation with Magic States on Any Number of Qudits of Any Dimension
   - Dates: July, 2022
@@ -99,7 +119,7 @@ title: Talks
 - **Quantum information seminar @ University of Cambridge, Department of Applied Mathematics and Theoretical Physics**
   - Title: A hierarchy of classical simulation algorithms for quantum computation of increasing complexity
   - Dates: April, 2024
-  - Location, University of Cambridge, Cambridge, UK
+  - Location: University of Cambridge, Cambridge, UK
   - Format: 60 minute talk
 
 - **Dan Browne group seminar @ University College London**
@@ -120,12 +140,6 @@ title: Talks
   - Title: No-go theorems for discrete Wigner functions and alternative quasiprobability representations for quantum computation
   - Dates: December, 2022
   - Location: Zoom
-  - Format: 60 minute talk
-
-- **FoQaCiA collaboration kick-off meeting**
-  - Title: Classical simulation of quantum computation based on the Λ-polytopes
-  - Dates: November, 2022
-  - Location: Iberian Nanotechnology Laboratory, Braga, Portugal
   - Format: 60 minute talk
 
 - **Quantum information theory group seminar @ University of Cologne**
