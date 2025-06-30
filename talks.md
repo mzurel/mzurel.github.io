@@ -6,6 +6,16 @@ title: Talks
 
 ## Conference talks
 ### 2025
+- **Quasiprobability Distributions in Quantum Mechanics, Optics, and Information (QuiDiQua) [Invited]**
+  - Dates: November, 2025
+  - Location: Institut Henri Poincare, Paris, Fance
+
+- **Foundations of Quantum Computation**
+  - Title: The Lambda polytopes and their applications
+  - Dates: June, 2025
+  - Location: University of Edinburgh, Edinburgh, Scotland
+  - Format: 5 minute lightning talk
+
 - **Foundations of Quantum Computational Advantage (FoQaCiA) Workshop [Invited]**
   - Title: Introduction to the Lambda polytopes and their applications
   - Dates: June, 2025
@@ -167,6 +177,13 @@ title: Talks
   - Format: 45 minute talk
 
 ## Poster presentations
+### 2025
+- **Helgoland 2025: 100 Years of Quantum Mechanics**
+  - Title: Hidden variable model for universal quantum computation and Wheeler's "It from Bit"
+  - Dates: June, 2025
+  - Location: Helgoland, Germany
+  - Links: [[poster pdf]](/files/posters/2025HelgolandPoster.pdf){:target="_blank"}
+
 ### 2024
 - **Southwest Quantum Information and Technology (SQuInT) Workshop**
   - Title: Efficient classical simulation of quantum computation beyond Wigner positivity
