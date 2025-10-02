@@ -6,6 +6,12 @@ title: Publications
 
 ## Publications
 
+- **Simulation of quantum computation with magic states via Jordan-Wigner Transformations** [[pdf]](/files/papers/2307.16034.pdf){:target="_blank"}, [[biblatex]](/files/papers/2307.16034_biblatex.txt){:target="_blank"}
+  - ![Lambda polytope hierarchy diagram](/files/papers/2307.16034_figure.png){: style="float: left"; height="35%" width="35%"}
+  - Coauthors: **MZ**, L.Z. Cohen, and R. Raussendorf.
+  - Published version: [Physical Review A **112**, 042602 (2025)](https://doi.org/10.1103/ng4l-96kd){:target="_blank"}
+  - arXiv version: [arXiv:2307.16034](https://arxiv.org/abs/2307.16034){:target="_blank"}
+
 - **Simulating Quantum Computation: How Many "Bits" for "It"?** [[pdf]](/files/papers/PRXQuantum.5.030343.pdf){:target="_blank"}, [[biblatex]](/files/papers/PRXQuantum.5.030343_biblatex.txt){:target="_blank"}
   - ![Quantum computation diagram](/files/papers/PRXQuantum.5.030343_KeyImage.png){: style="float: left"; height="30%" width="30%"}
   - Coauthors: **MZ**, C. Okay, and R. Raussendorf.
@@ -49,11 +55,6 @@ title: Publications
   - ![CNC classical simulation algorithm](/files/papers/2407.10349_figure.png){: style="float: left"; height="70%" width="70%"}
   - Coauthors: **MZ** and Arne Heimendahl.
   - [arXiv:2407.10349](https://arxiv.org/abs/2407.10349){:target="_blank"}
-
-- **Simulation of quantum computation with magic states via Jordan-Wigner Transformations** [[pdf]](/files/papers/2307.16034.pdf){:target="_blank"}, [[biblatex]](/files/papers/2307.16034_biblatex.txt){:target="_blank"}
-  - ![Lambda polytope hierarchy diagram](/files/papers/2307.16034_figure.png){: style="float: left"; height="35%" width="35%"}
-  - Coauthors: **MZ**, L.Z. Cohen, and R. Raussendorf.
-  - [arXiv:2307.16034](https://arxiv.org/abs/2307.16034){:target="_blank"}
 
 
 ## PhD Thesis
