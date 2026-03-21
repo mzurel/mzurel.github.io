@@ -1,0 +1,16 @@
+@article{PhysRevA.112.042602,
+  title = {Simulation of quantum computation with magic states via Jordan-Wigner transformations},
+  author = {Zurel, Michael and Cohen, Lawrence Z. and Raussendorf, Robert},
+  journal = {Physical Review A},
+  volume = {112},
+  issue = {4},
+  pages = {042602},
+  numpages = {14},
+  year = {2025},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/ng4l-96kd},
+  url = {https://link.aps.org/doi/10.1103/ng4l-96kd},
+  eprint = {2307.16034},
+  eprinttype = {arXiv}
+}

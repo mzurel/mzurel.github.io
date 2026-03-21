@@ -4,10 +4,20 @@ permalink: /publications/
 title: Publications
 ---
 
-## Publications
+## Papers
 
-- **Simulation of quantum computation with magic states via Jordan-Wigner Transformations** [[pdf]](/files/papers/2307.16034.pdf){:target="_blank"}, [[biblatex]](/files/papers/2307.16034_biblatex.txt){:target="_blank"}
-  - ![Lambda polytope hierarchy diagram](/files/papers/2307.16034_figure.png){: style="float: left"; height="35%" width="35%"}
+- **High-threshold magic state distillation with quantum quadratic residue codes** [[pdf]](/files/papers/2603.18560.pdf){:target="_blank"}, [[biblatex]](/files/papers/2603.18560_biblatex.txt){:target="_blank"}
+  - ![T state distillation](/files/papers/2603.18560_figure.png){: style="float: left"; height="60%" width="60%"}
+  - Coauthors: **MZ**, Santanil Jana, and Nadish de Silva
+  - [arXiv:2603.18560](https://arxiv.org/abs/2603.18560){:target="_blank"} (2026)
+
+- **Basis-independent stabilizerness and maximally noisy magic states** [[pdf]](/files/papers/2602.22336.pdf){:target="_blank"}, [[biblatex]](/files/papers/2602.22336_biblatex.txt){:target="_blank"}
+  - ![Absolutely stabilizer states](/files/papers/2602.22336_figure.png){: style="float: left"; height="50%" width="50%"}
+  - Coauthors: **MZ** and Jack Davis
+  - [arXiv:2602.22336](https://arxiv.org/abs/2602.22336){:target="_blank"} (2026)
+
+- **Simulation of quantum computation with magic states via Jordan-Wigner Transformations** [[pdf]](/files/papers/PhysRevA.112.042602.pdf){:target="_blank"}, [[biblatex]](/files/papers/PhysRevA.112.042602_biblatex.txt){:target="_blank"}
+  - ![Lambda polytope hierarchy diagram](/files/papers/PhysRevA.112.042602_figure.png){: style="float: left"; height="35%" width="35%"}
   - Coauthors: **MZ**, L.Z. Cohen, and R. Raussendorf.
   - Published version: [Physical Review A **112**, 042602 (2025)](https://doi.org/10.1103/ng4l-96kd){:target="_blank"}
   - arXiv version: [arXiv:2307.16034](https://arxiv.org/abs/2307.16034){:target="_blank"}
@@ -17,6 +27,11 @@ title: Publications
   - Coauthors: **MZ**, C. Okay, and R. Raussendorf.
   - Published version: [PRX Quantum **5**, 030343 (2024)](https://doi.org/10.1103/PRXQuantum.5.030343){:target="_blank"}
   - arXiv version: [arXiv:2305:17287](https://arxiv.org/abs/2305.17287){:target="_blank"}
+
+- **Efficient classical simulation of quantum computation beyond Wigner positivity** [[pdf]](/files/papers/2407.10349.pdf){:target="_blank"}, [[biblatex]](/files/papers/2407.10349_biblatex.txt){:target="_blank"}
+  - ![CNC classical simulation algorithm](/files/papers/2407.10349_figure.png){: style="float: left"; height="70%" width="70%"}
+  - Coauthors: **MZ** and Arne Heimendahl.
+  - [arXiv:2407.10349](https://arxiv.org/abs/2407.10349){:target="_blank"} (2024)
 
 - **Hidden variable model for quantum computation with magic states on qudits of any dimension** [[pdf]](/files/papers/q-2024-04-30-1323.pdf){:target="_blank"}, [[biblatex]](/files/papers/q-2024-04-30-1323_biblatex.txt){:target="_blank"}
   - ![Lambda polytope diagram](/files/papers/q-2024-04-30-1323_figure.png){: style="float: left"; height="45%" width="45%"}
@@ -47,14 +62,6 @@ title: Publications
   - Coauthors: R. Raussendorf, J. Bermejo-Vega, E. Tyhurst, C. Okay, and **MZ**.
   - Published version: [Physical Review A **101**, 012350 (2020)](https://link.aps.org/doi/10.1103/PhysRevA.101.012350){:target="_blank"}
   - arXiv version: [arXiv:1905.05374](https://arxiv.org/abs/1905.05374){:target="_blank"}
-
-
-## Preprints
-
-- **Efficient classical simulation of quantum computation beyond Wigner positivity** [[pdf]](/files/papers/2407.10349.pdf){:target="_blank"}, [[biblatex]](/files/papers/2407.10349_biblatex.txt){:target="_blank"}
-  - ![CNC classical simulation algorithm](/files/papers/2407.10349_figure.png){: style="float: left"; height="70%" width="70%"}
-  - Coauthors: **MZ** and Arne Heimendahl.
-  - [arXiv:2407.10349](https://arxiv.org/abs/2407.10349){:target="_blank"}
 
 
 ## PhD Thesis

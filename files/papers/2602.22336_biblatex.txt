@@ -1,0 +1,7 @@
+@unpublished{2602.22336,
+    title = {Basis-independent stabilizerness and maximally noisy magic states}, 
+    author = {Michael Zurel and Jack Davis},
+    year = {2026},
+    eprint = {2602.22336},
+    eprinttype = {arXiv}
+}

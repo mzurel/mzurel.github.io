@@ -1,0 +1,7 @@
+@unpublished{2603.18560,
+    title = {High-threshold magic state distillation with quantum quadratic residue codes},
+    author = {Michael Zurel and Santanil Jana and Nadish de Silva},
+    year = {2026},
+    eprint = {2603.18560},
+    eprinttype = {arXiv}
+}
