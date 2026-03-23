@@ -10,7 +10,6 @@ I am an NSERC Postdoctoral Fellow in the Department of Mathematics at Simon Fras
 
 Resume: [pdf](/files/resume.pdf){:target="_blank"}.<br>
 Academic CV: [pdf](/files/cv.pdf){:target="_blank"}.<br>
-Research statement: [here](/files/ResearchStatement.pdf){:target="_blank"}.
 
 ## Background
 - Born in St. John's, Newfoundland in June, 1996
