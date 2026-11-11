@@ -5,10 +5,19 @@ title: Talks
 ---
 
 ## Conference talks
+### 2026
+- **Quantum Physics and Logic (QPL) [presented by a co-author]**
+  - Title: Basis-independent stabilizerness and maximally noisy magic states
+  - Dates: August, 2026
+  - Location: University of Amsterdam, Amsterdam, The Netherlands
+  - Format: 25 minute talk
+
 ### 2025
 - **Quasiprobability Distributions in Quantum Mechanics, Optics, and Information (QuiDiQua) [Invited]**
+  - Title: Efficient classical simulation of quantum computation beyond Wigner nonnegativity
   - Dates: November, 2025
   - Location: Institut Henri Poincare, Paris, Fance
+  - Format: 35 minute talk
 
 - **Foundations of Quantum Computation**
   - Title: The Lambda polytopes and their applications
@@ -112,6 +121,31 @@ title: Talks
   - Format: 25 minute talk
 
 ## Seminars
+### 2026
+- **PIQI kickoff meeting @ Perimeter Institute for Theoretical Physics**
+  - Title: Foundations of quantum computation
+  - Dates: October, 2026
+  - Location: Perimeter Institute for Theoretical Physics, Waterloo, Canada
+  - Format: 30 minute talk
+
+- **Quantum computer architectures and theory seminar @ University of Cambridge**
+  - Title: High-threshold magic state distillation with quantum quadratic residue codes
+  - Dates: July, 2026
+  - Location: Remote
+  - Format: 60 minute talk
+
+- **Institute for Quantum Computing @ University of Waterloo**
+  - Title: Foundations of quantum computation
+  - Dates: June, 2026
+  - Location: Institute for Quantum Computing, University of Waterloo, Canada
+  - Format: 60 minute talk
+
+### 2025
+- **School of Mathematical & Statistical Sciences seminar @ University of Galway**
+  - Title: Efficient classical simulation of quantum computation beyond Wigner nonnegativity60 minute talk
+  - Dates: November, 2025
+  - Location: University of Galway, Galway, Ireland
+  - Format: 60 minute talk
 
 ### 2024
 - **David Gross group seminar @ University of Cologne**
@@ -178,6 +212,12 @@ title: Talks
 
 ## Poster presentations
 ### 2025
+- **Year of Quantum Across Canada @ Perimeter Institute**
+  - Title: The role of cohomology in quantum computation with magic states
+  - Dates: September, 2025
+  - Location: Waterloo, Canada
+  - Links: [[poster pdf]](/files/posters/2025PIPoster.pdf){:target="_blank"}
+
 - **Helgoland 2025: 100 Years of Quantum Mechanics**
   - Title: Hidden variable model for universal quantum computation and Wheeler's "It from Bit"
   - Dates: June, 2025
@@ -222,6 +262,18 @@ title: Talks
   - Links: [[poster pdf]](/files/posters/2023QPLPoster.pdf){:target="_blank"}
 
 ### 2022
+- **Max Planck - UBC - UTokyo Centre for Quantum Materials Annual Meeting**
+  - Title: Hidden variable model for quantum computation with magic states on qudits of any dimension
+  - Dates: September, 2022
+  - Location: Blusson Quantum Matter Institute, University of British Columbia
+  - Links: [[poster pdf]](/files/posters/2022QMIPosterB.pdf){:target="_blank"}
+
+- **Max Planck - UBC - UTokyo Centre for Quantum Materials Annual Meeting**
+  - Title: The role of cohomology in quantum computation with magic states
+  - Dates: September, 2022
+  - Location: Blusson Quantum Matter Institute, University of British Columbia
+  - Links: [[poster pdf]](/files/posters/2022QMIPosterA.pdf){:target="_blank"}
+
 - **Theory of Quantum Computation, Communication, and Cryptography (TQC)**
   - Title: The role of cohomology in quantum computation with magic states
   - Dates: July, 2022
